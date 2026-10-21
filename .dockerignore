@@ -1,0 +1,9 @@
+# Local build output (a macOS binary would be useless in the image) and editor settings.
+build
+blackjack
+main
+dist
+.vscode
+.git
+*.o
+*.d
